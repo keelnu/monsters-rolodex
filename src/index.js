@@ -1,4 +1,5 @@
 import React from 'react';
+// the little robot that interacts with the dom
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
